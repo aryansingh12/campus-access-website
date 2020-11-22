@@ -34,6 +34,11 @@ body {
 .navbar-brand :hover {
   color: black;
 }
+.mdi-36px {
+    font-size: 39px;
+    margin-right: 10px
+}
+
 .jumbotron {
   background-color: transparent;
   color: #fff;
